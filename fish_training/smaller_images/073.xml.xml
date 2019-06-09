@@ -1,0 +1,38 @@
+<annotation>
+	<folder>smaller_images</folder>
+	<filename>073.jpg</filename>
+	<path>D:\coding\Object Detection\fish_detection\smaller_images\073.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>167</ymin>
+			<xmax>400</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>3</ymin>
+			<xmax>301</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>
